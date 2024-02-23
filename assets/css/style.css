@@ -1,0 +1,10 @@
+body {
+    padding-top: 56px; /* Altura de la barra de navegación fija */
+    font-family: 'Open Sans', sans-serif;
+    background-color: black;
+}
+
+.img-reduced-size {
+    width: 5%; /* Puedes ajustar el porcentaje según tu preferencia */
+    height: auto; /* Esto asegura que la proporción original se mantenga */
+}
