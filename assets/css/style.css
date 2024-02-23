@@ -8,3 +8,14 @@ body {
     width: 5%; /* Puedes ajustar el porcentaje según tu preferencia */
     height: auto; /* Esto asegura que la proporción original se mantenga */
 }
+
+#highlights {
+    display: flex;
+    justify-content: space-between; 
+    text-align: center; /* Alinear el texto dentro del contenedor */
+  }
+
+  .card {
+    width: 18rem;
+    margin-right: 10px; /* Ajustar el margen entre las tarjetas */
+  }
